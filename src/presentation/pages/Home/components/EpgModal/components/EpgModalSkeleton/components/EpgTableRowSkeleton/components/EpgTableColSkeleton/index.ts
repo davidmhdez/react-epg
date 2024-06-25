@@ -1,0 +1,1 @@
+export {default} from "./EpgTableColSkeleton.tsx"
