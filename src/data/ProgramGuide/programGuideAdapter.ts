@@ -15,7 +15,7 @@ export const getCompactDateFormat = (date: Date) =>{
     return `${year}${month}${day}${hours}${minutes}${seconds}`;
 }
 
-const getDateFromCompactDate = (date: string) =>{
+export const getDateFromCompactDate = (date: string) =>{
     const year = parseInt(date.substring(0, 4));
     const month = parseInt(date.substring(4, 6)) - 1;
     const day = parseInt(date.substring(6, 8));
@@ -25,7 +25,7 @@ const getDateFromCompactDate = (date: string) =>{
     return new Date(year, month, day, hours, minutes, seconds);
 }
 
-const getMinutesFromDuration = (duration: string) =>{
+export const getMinutesFromDuration = (duration: string) =>{
     const durationParts = duration.split(':');
 
     const hours = parseInt(durationParts[0], 10);
@@ -35,7 +35,7 @@ const getMinutesFromDuration = (duration: string) =>{
     return (hours * 60) + minutes + (seconds / 60);
 }
 
-const getEventDate = (stringDate: string) =>{
+export const getEventDate = (stringDate: string) =>{
     const [date, time] = stringDate.split(' ');
     const [yyyy, mm, dd] = date.split('/').map(Number);
     const [hh, mi, ss] = time.split(':').map(Number);
@@ -43,7 +43,7 @@ const getEventDate = (stringDate: string) =>{
     return new Date(yyyy, mm - 1, dd, hh, mi, ss);
 }
 
-const getChannelAdapter = (apiChannel: ApiChannel): Channel =>{
+export const getChannelAdapter = (apiChannel: ApiChannel): Channel =>{
     return {
         id: apiChannel.id,
         name: apiChannel.name,

@@ -21,6 +21,7 @@ const EpgChannelEventCol: React.FC<Props> = ({channelEvent, width, position, ind
             $position={position}
             $enableLeftBorder={index === 0 && position > 0}
             onMouseEnter={()=> selectChannelEvent(channelEvent)}
+            data-testid={channelEvent.id}
         >
             <EpgChannelEventRowTitle title={channelEvent.name}>{channelEvent.name}</EpgChannelEventRowTitle>
             <EpgChannelEventRowDuration title={timeRange}>{timeRange}</EpgChannelEventRowDuration>

@@ -13,7 +13,7 @@ type Props = {
 
 const EpgModal: React.FC<Props> = ({isLoading, programGuide}) => {
     return (
-        <EpgModalWrapper>
+        <EpgModalWrapper data-testid="epgModal">
             <EpgModalCloseButton/>
             <EpgChannelBanner/>
             {isLoading || !programGuide

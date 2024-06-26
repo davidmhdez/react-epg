@@ -21,7 +21,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "types": ["reflect-metadata"],
+    "types": ["reflect-metadata", "node", "jest", "@testing-library/jest-dom"],
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
   },

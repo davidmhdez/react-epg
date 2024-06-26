@@ -1,0 +1,619 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpgModalSkeleton test should match with snapshot 1`] = `
+<div>
+  <div
+    class="sc-aYaIB bSTRcM"
+    data-testid="epgModalSkeleton"
+  >
+    <div
+      class="sc-gEvDqW jwQatR"
+    >
+      <div
+        class="sc-eqUzNf giyJNu"
+      >
+        <span
+          aria-busy="true"
+          aria-live="polite"
+        >
+          <span
+            class="react-loading-skeleton dayText"
+            style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+          >
+            ‌
+          </span>
+          <br />
+        </span>
+        <span
+          aria-busy="true"
+          aria-live="polite"
+        >
+          <span
+            class="react-loading-skeleton hourText"
+            style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+          >
+            ‌
+          </span>
+          <br />
+        </span>
+        <span
+          aria-busy="true"
+          aria-live="polite"
+        >
+          <span
+            class="react-loading-skeleton hourText"
+            style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+          >
+            ‌
+          </span>
+          <br />
+        </span>
+        <span
+          aria-busy="true"
+          aria-live="polite"
+        >
+          <span
+            class="react-loading-skeleton hourText"
+            style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+          >
+            ‌
+          </span>
+          <br />
+        </span>
+        <span
+          aria-busy="true"
+          aria-live="polite"
+        >
+          <span
+            class="react-loading-skeleton hourText"
+            style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+          >
+            ‌
+          </span>
+          <br />
+        </span>
+        <span
+          aria-busy="true"
+          aria-live="polite"
+        >
+          <span
+            class="react-loading-skeleton hourText"
+            style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+          >
+            ‌
+          </span>
+          <br />
+        </span>
+        <span
+          aria-busy="true"
+          aria-live="polite"
+        >
+          <span
+            class="react-loading-skeleton hourText"
+            style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+          >
+            ‌
+          </span>
+          <br />
+        </span>
+      </div>
+      <div
+        class="sc-fqkwJk hQWqGa"
+      >
+        <div
+          class="sc-dcJtft JTiyR"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton channelNumber"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton channelImage"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO eroMrp"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO dVWzxe"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO yurWs"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO edhPWr"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO jrLrpN"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+      </div>
+      <div
+        class="sc-fqkwJk hQWqGa"
+      >
+        <div
+          class="sc-dcJtft JTiyR"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton channelNumber"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton channelImage"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO dVWzxe"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO cvnIIM"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO jjiyZR"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO dVWzxe"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO hhSMjW"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+      </div>
+      <div
+        class="sc-fqkwJk hQWqGa"
+      >
+        <div
+          class="sc-dcJtft JTiyR"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton channelNumber"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton channelImage"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO hmVHgF"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO goiddJ"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO gbPRUz"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO kDunDS"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+        <div
+          class="sc-iGgVNO buXabQ"
+        >
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programTitle"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+          <span
+            aria-busy="true"
+            aria-live="polite"
+          >
+            <span
+              class="react-loading-skeleton programDuration"
+              style="--base-color: #6C6C6CAD; --highlight-color: #7E7E7EAD;"
+            >
+              ‌
+            </span>
+            <br />
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

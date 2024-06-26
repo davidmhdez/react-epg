@@ -5,7 +5,7 @@ import EpgTableRowSkeleton from "./components/EpgTableRowSkeleton";
 
 const EpgModalSkeleton = () => {
     return (
-        <EpgModalSkeletonWrapper>
+        <EpgModalSkeletonWrapper data-testid="epgModalSkeleton">
             <SkeletonTheme baseColor="#6C6C6CAD" highlightColor="#7E7E7EAD">
                 <EpgModalSkeletonTable>
                     <EpgTableHeaderSkeleton/>

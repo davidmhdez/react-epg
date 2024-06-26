@@ -7,7 +7,7 @@ const EpgModalCloseButton = () => {
     const { closeModal } = useContext(ModalContext)
 
     return (
-        <StyledEpgModalCloseButton onClick={closeModal}>
+        <StyledEpgModalCloseButton data-testid="closeModalButton" onClick={closeModal}>
             <CloseIcon/>
         </StyledEpgModalCloseButton>
     );

@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpgTableHeaderSkeleton should match with snapshot 1`] = `
+<div>
+  <div
+    class="sc-aYaIB cjIWLn"
+  >
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton dayText"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton hourText"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton hourText"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton hourText"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton hourText"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton hourText"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton hourText"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+  </div>
+</div>
+`;

@@ -13,7 +13,7 @@ const EpgTable: React.FC<Props> = React.memo(({programGuide}) => {
     const maxTableWidth = getWidthFromDates(programGuide.from, programGuide.end);
 
     return (
-        <EpgTableWrapper>
+        <EpgTableWrapper data-testid="epgTable">
             <EpgHoursHeader startDate={programGuide.from} endDate={programGuide.end}/>
             <EpgTableBody>
                 {programGuide.channels.map(channel =>(

@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpgTableColSkeleton test should match with snapshot 1`] = `
+<div>
+  <div
+    class="sc-aYaIB eHqskW"
+  >
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton programTitle"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton programDuration"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+  </div>
+</div>
+`;

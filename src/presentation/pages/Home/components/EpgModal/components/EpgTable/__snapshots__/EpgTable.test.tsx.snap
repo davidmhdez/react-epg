@@ -1,0 +1,171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpgTable test should match with snapshot 1`] = `
+<div>
+  <div
+    class="sc-aYaIB hgNKVS"
+    data-testid="epgTable"
+  >
+    <div
+      class="sc-kpDprT bEUryy"
+    >
+      <p
+        class="sc-dAlxHm kVScoi"
+      >
+        HOY
+      </p>
+      <div
+        class="sc-jlZhRR jGcWDG"
+      >
+        <div
+          class="sc-cwHqhk fsfldu"
+        >
+          14:00
+        </div>
+        <div
+          class="sc-cwHqhk curgWK"
+        >
+          14:30
+        </div>
+        <div
+          class="sc-cwHqhk jMXTpN"
+        >
+          15:00
+        </div>
+        <div
+          class="sc-cwHqhk dxSojT"
+        >
+          15:30
+        </div>
+        <div
+          class="sc-cwHqhk bibaaM"
+        >
+          16:00
+        </div>
+        <div
+          class="sc-cwHqhk fiYASY"
+        >
+          16:30
+        </div>
+        <div
+          class="sc-cwHqhk jMKLxn"
+        >
+          17:00
+        </div>
+        <div
+          class="sc-cwHqhk eKwFUm"
+        >
+          17:30
+        </div>
+        <div
+          class="sc-cwHqhk gHukmJ"
+        >
+          18:00
+        </div>
+        <div
+          class="sc-cwHqhk eeySzd"
+        >
+          18:30
+        </div>
+        <div
+          class="sc-cwHqhk hHkltO"
+        >
+          19:00
+        </div>
+        <div
+          class="sc-cwHqhk loZGas"
+        >
+          19:30
+        </div>
+        <div
+          class="sc-cwHqhk jaflJT"
+        >
+          20:00
+        </div>
+        <div
+          class="sc-cwHqhk eHZgzP"
+        >
+          20:30
+        </div>
+        <div
+          class="sc-cwHqhk kWRoYl"
+        >
+          21:00
+        </div>
+        <div
+          class="sc-cwHqhk idBUT"
+        >
+          21:30
+        </div>
+        <div
+          class="sc-cwHqhk hIZWAo"
+        >
+          22:00
+        </div>
+        <div
+          class="sc-cwHqhk lhkIIQ"
+        >
+          22:30
+        </div>
+        <div
+          class="sc-cwHqhk jOhkAT"
+        >
+          23:00
+        </div>
+        <div
+          class="sc-cwHqhk ghbuyF"
+        >
+          23:30
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-gEvDqW hipaoh"
+    >
+      <div
+        class="sc-eqUzNf doxFpK"
+      >
+        <div
+          class="sc-kAycRU innHW"
+        >
+          <div
+            class="sc-imWZod gZXqPU"
+          >
+            <p
+              class="sc-jXbVAB eRvmwg"
+            >
+              3
+            </p>
+            <img
+              alt="Test channel logo"
+              class="sc-dhKdPU egNOtl"
+              src="https://www.testimage.com/assets/image.png"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-fqkwJk ctBQky"
+        >
+          <div
+            class="sc-dcJtft kOXGtT"
+            data-testid="11"
+          >
+            <h6
+              class="sc-iGgVNO cFzOhe"
+              title="Test event"
+            >
+              Test event
+            </h6>
+            <p
+              class="sc-gsFSjX hziKuj"
+              title="14:00 - 15:30"
+            >
+              14:00 - 15:30
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

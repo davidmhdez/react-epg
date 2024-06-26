@@ -1,5 +1,6 @@
 import React from "react";
 import {StyledButton} from "./styles.ts";
+import '@testing-library/jest-dom'
 
 type Props = React.HTMLAttributes<HTMLButtonElement>
 

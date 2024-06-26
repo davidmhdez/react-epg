@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpgTableRowSkeleton test should match with snapshot 1`] = `
+<div>
+  <div
+    class="sc-aYaIB bvTkNm"
+  >
+    <div
+      class="sc-gEvDqW fGjLCw"
+    >
+      <span
+        aria-busy="true"
+        aria-live="polite"
+      >
+        <span
+          class="react-loading-skeleton channelNumber"
+        >
+          ‌
+        </span>
+        <br />
+      </span>
+      <span
+        aria-busy="true"
+        aria-live="polite"
+      >
+        <span
+          class="react-loading-skeleton channelImage"
+        >
+          ‌
+        </span>
+        <br />
+      </span>
+    </div>
+    <div
+      class="sc-eqUzNf cIKLZF"
+    >
+      <span
+        aria-busy="true"
+        aria-live="polite"
+      >
+        <span
+          class="react-loading-skeleton programTitle"
+        >
+          ‌
+        </span>
+        <br />
+      </span>
+      <span
+        aria-busy="true"
+        aria-live="polite"
+      >
+        <span
+          class="react-loading-skeleton programDuration"
+        >
+          ‌
+        </span>
+        <br />
+      </span>
+    </div>
+    <div
+      class="sc-eqUzNf gCpjOV"
+    >
+      <span
+        aria-busy="true"
+        aria-live="polite"
+      >
+        <span
+          class="react-loading-skeleton programTitle"
+        >
+          ‌
+        </span>
+        <br />
+      </span>
+      <span
+        aria-busy="true"
+        aria-live="polite"
+      >
+        <span
+          class="react-loading-skeleton programDuration"
+        >
+          ‌
+        </span>
+        <br />
+      </span>
+    </div>
+    <div
+      class="sc-eqUzNf iAXyfv"
+    >
+      <span
+        aria-busy="true"
+        aria-live="polite"
+      >
+        <span
+          class="react-loading-skeleton programTitle"
+        >
+          ‌
+        </span>
+        <br />
+      </span>
+      <span
+        aria-busy="true"
+        aria-live="polite"
+      >
+        <span
+          class="react-loading-skeleton programDuration"
+        >
+          ‌
+        </span>
+        <br />
+      </span>
+    </div>
+  </div>
+</div>
+`;

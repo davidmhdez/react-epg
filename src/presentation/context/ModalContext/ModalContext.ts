@@ -9,13 +9,14 @@ type ModalContextValues = {
     selectChannelEvent: (channelEvent: ChannelEvent) => void
 }
 
-
-const ModalContext = createContext<ModalContextValues>({
+export const initialModalContextValues = {
     isOpen: false,
     selectedChannelEvent: null,
     closeModal: () => {},
     openModal: () => {},
     selectChannelEvent: () => {},
-})
+}
+
+const ModalContext = createContext<ModalContextValues>(initialModalContextValues)
 
 export default ModalContext

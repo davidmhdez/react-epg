@@ -22,7 +22,6 @@ export interface ApiChannel {
   source_uri: string;
   provider_metadata_id: number;
   provider_metadata_name: string;
-  group: Group;
   events: Event[];
 }
 
@@ -75,71 +74,6 @@ interface Event {
   user_content: null;
   group_rel: null;
   gmt: number;
-}
-
-interface Group {
-  common: Common;
-}
-
-interface Common {
-  id: string;
-  title: string;
-  title_episode: null;
-  title_uri: string;
-  title_original: string;
-  description: string;
-  description_large: string;
-  short_description: null;
-  image_large: string;
-  image_medium: string;
-  image_small: string;
-  image_still: null;
-  image_background: string;
-  url_imagen_t1: string;
-  url_imagen_t2: string;
-  image_base_horizontal: string;
-  image_base_vertical: string;
-  image_base_square: string;
-  image_clean_horizontal: string;
-  image_clean_vertical: string;
-  image_clean_square: string;
-  image_sprites: string;
-  image_frames: string;
-  image_trickplay: string;
-  image_external: null;
-  duration: null;
-  date: string;
-  year: null;
-  preview: string;
-  season_number: null;
-  episode_number: null;
-  format_types: string;
-  live_enabled: string;
-  live_type: string;
-  live_ref: string;
-  source_uri: string;
-  timeshift: null | string;
-  votes_average: number;
-  rating_code: string;
-  proveedor_name: string;
-  proveedor_code: string;
-  encoder_tecnology: Encodertecnology;
-  recorder_technology: Recordertechnology;
-  resource_name: null;
-  rollingcreditstime: null;
-  rollingcreditstimedb: null;
-  is_series: boolean;
-  channel_number: string;
-}
-
-interface Recordertechnology {
-  id: null | string;
-  desc: null | string;
-}
-
-interface Encodertecnology {
-  id: string;
-  desc: string;
 }
 
 interface Entry {

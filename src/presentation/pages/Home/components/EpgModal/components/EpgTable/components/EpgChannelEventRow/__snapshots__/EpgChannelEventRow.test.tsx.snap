@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpgChannelEventRow test should match with snapshot 1`] = `
+<div>
+  <div
+    class="sc-aYaIB joXNub"
+  >
+    <div
+      class="sc-iGgVNO ZsAZH"
+    >
+      <div
+        class="sc-gsFSjX elKSpN"
+      >
+        <p
+          class="sc-kAycRU bFxGqS"
+        >
+          3
+        </p>
+        <img
+          alt="Test channel logo"
+          class="sc-imWZod bJflWt"
+          src="https://www.testimage.com/assets/image.png"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-gEvDqW efsRrp"
+    >
+      <div
+        class="sc-eqUzNf nJUDT"
+        data-testid="11"
+      >
+        <h6
+          class="sc-fqkwJk fGsIES"
+          title="Test event"
+        >
+          Test event
+        </h6>
+        <p
+          class="sc-dcJtft etZvKb"
+          title="14:00 - 15:30"
+        >
+          14:00 - 15:30
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

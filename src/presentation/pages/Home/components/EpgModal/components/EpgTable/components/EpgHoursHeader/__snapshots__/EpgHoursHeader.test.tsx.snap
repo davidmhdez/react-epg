@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpgHoursHeader test should match with snapshot 1`] = `
+<div>
+  <div
+    class="sc-aYaIB fbKZa-d"
+  >
+    <p
+      class="sc-gEvDqW gOaJWY"
+    >
+      HOY
+    </p>
+    <div
+      class="sc-eqUzNf etwsRN"
+    >
+      <div
+        class="sc-fqkwJk yBFZy"
+      >
+        14:00
+      </div>
+      <div
+        class="sc-fqkwJk hkCXKG"
+      >
+        14:30
+      </div>
+      <div
+        class="sc-fqkwJk haZKJR"
+      >
+        15:00
+      </div>
+      <div
+        class="sc-fqkwJk fxoIHr"
+      >
+        15:30
+      </div>
+      <div
+        class="sc-fqkwJk bmSnLo"
+      >
+        16:00
+      </div>
+      <div
+        class="sc-fqkwJk hiuVqw"
+      >
+        16:30
+      </div>
+      <div
+        class="sc-fqkwJk haMCRr"
+      >
+        17:00
+      </div>
+      <div
+        class="sc-fqkwJk hLLrUO"
+      >
+        17:30
+      </div>
+      <div
+        class="sc-fqkwJk eCocwF"
+      >
+        18:00
+      </div>
+      <div
+        class="sc-fqkwJk hfNEzF"
+      >
+        18:30
+      </div>
+      <div
+        class="sc-fqkwJk bOStyG"
+      >
+        19:00
+      </div>
+      <div
+        class="sc-fqkwJk gOesHc"
+      >
+        19:30
+      </div>
+      <div
+        class="sc-fqkwJk gUZdTP"
+      >
+        20:00
+      </div>
+      <div
+        class="sc-fqkwJk hJnSAr"
+      >
+        20:30
+      </div>
+      <div
+        class="sc-fqkwJk iRLhih"
+      >
+        21:00
+      </div>
+      <div
+        class="sc-fqkwJk djsnVv"
+      >
+        21:30
+      </div>
+      <div
+        class="sc-fqkwJk bQIeFg"
+      >
+        22:00
+      </div>
+      <div
+        class="sc-fqkwJk gGpvpA"
+      >
+        22:30
+      </div>
+      <div
+        class="sc-fqkwJk dVPsFL"
+      >
+        23:00
+      </div>
+      <div
+        class="sc-fqkwJk jiqgzh"
+      >
+        23:30
+      </div>
+    </div>
+  </div>
+</div>
+`;
