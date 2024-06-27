@@ -1,6 +1,6 @@
 import GetProgramGuideUseCase from "./GetProgramGuideUseCase.ts";
 import IProgramGuideRepository from "../../repository/IProgramGuideRepository.ts";
-import container from "../../../../inversify.config.ts";
+import container from "../../../inversify.config.ts";
 import TYPES from "../../types/types.ts";
 import ProgramGuideRepositoryMock from "../../../mocks/ProgramGuideRepositoryMock.ts";
 

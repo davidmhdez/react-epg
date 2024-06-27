@@ -1,7 +1,7 @@
 import {render, waitFor, screen} from "@testing-library/react";
 import ModalContext, {initialModalContextValues} from "../../../../context/ModalContext/ModalContext.ts";
 import EpgModalContainer from "./EpgModalContainer.tsx";
-import container from "../../../../../../inversify.config.ts";
+import container from "../../../../../inversify.config.ts";
 import IProgramGuideRepository from "../../../../../domain/repository/IProgramGuideRepository.ts";
 import TYPES from "../../../../../domain/types/types.ts";
 import ProgramGuideRepositoryMock from "../../../../../mocks/ProgramGuideRepositoryMock.ts";

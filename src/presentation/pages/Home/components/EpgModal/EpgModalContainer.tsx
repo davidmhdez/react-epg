@@ -1,5 +1,5 @@
 import EpgModal from "./EpgModal.tsx";
-import container from "../../../../../../inversify.config.ts";
+import container from "../../../../../inversify.config.ts";
 import TYPES from "../../../../../domain/types/types.ts";
 import GetProgramGuideUseCase from "../../../../../domain/interactor/ProgramGuide/GetProgramGuideUseCase.ts";
 import {useQuery} from "react-query";

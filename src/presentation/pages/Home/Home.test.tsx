@@ -31,6 +31,5 @@ describe('Home test', () => {
         const closeButton = screen.getByTestId('closeModalButton')
         fireEvent.click(closeButton);
         expect(screen.queryByTestId('epgModal')).not.toBeInTheDocument();
-        screen.debug()
     })
 })
